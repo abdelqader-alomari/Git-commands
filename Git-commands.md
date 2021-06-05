@@ -1,6 +1,6 @@
 # Git Commands:
 
-| Command | uses for |
+| Command | Description |
 | ------- | ------- |
 | git init | create new repository |
 | git status | show status of files in working directory |
