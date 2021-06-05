@@ -2,10 +2,10 @@
 
 | Command | use for |
 | ------- | ------- |
-| git init | create new repository
+| git init | create new repository |
 | git status | show status of files in working directory |
 | git add | add files to a staging area in order to commit or save |
-git commit -m"commited message " | moves added files to repo also record time and message |
+| git commit -m"commited message " | moves added files to repo also record time and message |
 | git diff | to compare changes in the working directory against a previously commited version |
 | git diff --staged | to ensure that you have directly staged all of your changes |
 | git log | view the history of the repo and commit log |
